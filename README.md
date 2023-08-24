@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site
+https://64e73ee9c81f906ee119d267--visionary-starlight-a8bdbb.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
